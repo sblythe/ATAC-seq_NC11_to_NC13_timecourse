@@ -1,0 +1,11 @@
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=ATAC_NC11 description=wt_NC11_accessibility autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:20 visibility=full color=25,25,112 smoothingWindow=5 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/ATAC-seq_NC11_to_NC13_timecourse/main/WT_NC11_09_open.bigwig
+
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=ATAC_NC12 description=wt_NC12_accessibility autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:20 visibility=full color=25,25,112 smoothingWindow=5 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/ATAC-seq_NC11_to_NC13_timecourse/main/WT_NC12_09_open.bigwig
+
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=ATAC_NC13 description=wt_NC13_accessibility autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:20 visibility=full color=25,25,112 smoothingWindow=5 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/ATAC-seq_NC11_to_NC13_timecourse/main/WT_NC13_15_open.bigwig
